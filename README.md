@@ -1,5 +1,6 @@
 #HI THERE
 ##NITHYA
+![snake gif](https://github.com/nithya914/nithya914/blob/output/github-snake-dark.svg)
 
 <!--
 **nithya914/nithya914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
